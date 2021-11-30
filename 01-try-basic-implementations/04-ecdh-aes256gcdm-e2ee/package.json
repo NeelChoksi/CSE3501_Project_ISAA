@@ -1,0 +1,16 @@
+{
+  "name": "02-elliptic-curve-diffie-hellman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "crypto": "^1.0.1"
+  }
+}
